@@ -5150,7 +5150,7 @@ gatsby-page-utils@^0.6.0:
     lodash "^4.17.20"
     micromatch "^4.0.2"
 
-gatsby-plugin-page-creator@^2.3.8:
+gatsby-plugin-page-creator@^2.3.8, gatsby-plugin-page-creator@^2.7.0:
   version "2.7.0"
   resolved "https://registry.yarnpkg.com/gatsby-plugin-page-creator/-/gatsby-plugin-page-creator-2.7.0.tgz#8b6f2afa11794c15eb0809054d5b7e0d47a6ba99"
   integrity sha512-lLUiwVGP/KfdlLwI7sB5naODK9KauPqPg9vd35LGKu/xI4izAi1070LwrG69XWm+R3RUF7NEkgHczBjwSI/fcQ==

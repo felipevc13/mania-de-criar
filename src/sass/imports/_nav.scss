@@ -43,7 +43,7 @@
     width: 25%;
   }
   &__logo-image {
-    height: 45px;
+    height: 5rem;
   }
   &__total-items {
     @include smaller-than-tablet {
@@ -116,4 +116,3 @@
     padding-top: 25px;
   }
 }
-

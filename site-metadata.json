@@ -3,7 +3,7 @@
     "snipcart_api_key": "M2MxZDgzZDMtZTY5Ni00ZWIxLTg3MWEtOGY2NGEyODE2NTQ0NjM3NDM2Nzc0OTYzODY3NzUy",
     "footer_text": "Copyright 2020 Planty Inc. All rights reserved.",
     "logo_light": "/images/mania@3x.png",
-    "logo_dark": "images/logo.svg",
+    "logo_dark": "/images/mania@3x.png",
     "favicon": "images/favicon.png",
     "hamburger_background_image": "/images/leaf-light-grey.svg",
     "bg_image_primary": "/images/header.jpg",
